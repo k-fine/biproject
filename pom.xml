@@ -117,9 +117,6 @@
 			<version>4.7</version>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-
-
 		<!-- mybatis 사용하기 -->
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
 		<dependency>
@@ -132,10 +129,6 @@
 			<artifactId>mybatis-spring</artifactId>
 			<version>1.2.2</version>
 		</dependency>
-
-
-=======
->>>>>>> refs/remotes/origin/master
 	</dependencies>
 	<build>
 		<plugins>
