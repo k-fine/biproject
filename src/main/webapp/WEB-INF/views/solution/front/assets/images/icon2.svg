@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_410" fill="red" d="M0 0H60V60H0z" opacity="0.2" transform="translate(79 48)"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#111;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="illust02" clip-path="url(#clip-path)" transform="translate(-79 -48)">
+        <g id="illust" transform="translate(7 -242.289)">
+            <path id="패스_6722" d="M116 332.694a5 5 0 0 0 5-4.9v-1.609a5 5 0 0 0-10 0v1.615a5 5 0 0 0 5 4.894z" class="cls-3"/>
+            <path id="패스_6723" d="M127 350v-7a7.3 7.3 0 0 0-7-7h-8a7.3 7.3 0 0 0-7 7v7" class="cls-3"/>
+            <path id="선_402" d="M0 7L0 0" class="cls-3" transform="translate(122 343)"/>
+            <path id="선_403" d="M0 0L0 7" class="cls-3" transform="translate(110 343)"/>
+            <path id="line1" d="M0 0L32 0" class="cls-3" transform="translate(100 349.289)"/>
+            <path id="line2" d="M0 0L6 0" class="cls-3" transform="translate(72 349.289)"/>
+            <path id="패스_6724" d="M89 332.694a5 5 0 0 0 5-4.9v-1.609a5 5 0 0 0-10 0v1.615a5 5 0 0 0 5 4.894z" class="cls-3"/>
+            <path id="패스_6725" d="M94.75 356c2.232 0 5.25-2.768 5.25-5v-8a7.3 7.3 0 0 0-7-7h-8a7.3 7.3 0 0 0-7 7v8c0 2.232 2.518 5 4.75 5" class="cls-3"/>
+            <path id="패스_6726" d="M82 365v-23h14v23" class="cls-3"/>
+        </g>
+        <g id="talkbox" fill="none" stroke="none" stroke-linejoin="round">
+            <path d="M30 3H2v17.786h6.429v4.179l4.179-4.179H30z" transform="translate(94 49)"/>
+            <path fill="#000" d="M2 3v17.786h6.429v4.178l4.178-4.178H30V3H2m0-2h28c1.105 0 2 .895 2 2v17.786c0 1.104-.895 2-2 2H13.436l-3.593 3.592c-.383.383-.894.586-1.415.586-.258 0-.517-.05-.765-.152-.747-.31-1.234-1.039-1.234-1.848v-2.178H2c-1.105 0-2-.896-2-2V3c0-1.105.895-2 2-2z" transform="translate(94 49)"/>
+        </g>
+    </g>
+</svg>

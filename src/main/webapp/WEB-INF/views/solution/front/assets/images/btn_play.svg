@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+    <defs>
+        <filter id="04wt2e21ua" width="180" height="180" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-opacity=".302"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="i24fzy8mpb" width="91.333" height="97" x="45.5" y="41.5" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur-2" stdDeviation="10"/>
+            <feFlood flood-opacity=".302"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#04wt2e21ua)" transform="translate(-865 -612) translate(865 612)">
+            <g fill="none" stroke="#fff" stroke-width="3px" transform="translate(30 20)">
+                <circle cx="60" cy="60" r="60" stroke="none"/>
+                <circle cx="60" cy="60" r="58.5"/>
+            </g>
+        </g>
+        <g filter="url(#i24fzy8mpb)" transform="translate(-865 -612) translate(865 612)">
+            <path fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="3px" d="M8.355 5.784l28.333 17-28.333 17z" transform="translate(68.65 57.22)"/>
+        </g>
+    </g>
+</svg>

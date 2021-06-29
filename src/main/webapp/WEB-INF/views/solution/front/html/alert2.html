@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alert</title>
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+    <button data-pop="alert-pop" style="margin: 250px;">Alert2</button>
+
+
+
+    <!-- popup 3-->
+    <div class="popup alert-pop show">  <!-- .show 여부에 따라 팝업이 보여짐/ data-pop과 일치하는 class의 팝업을 띄움 -->
+        <div class="pop-wrap">
+            <span class="btn-close pop-close"></span>
+            <div class="layer__section">
+                <div class="layer__header no_header">
+                </div>
+                <div class="layer_contet">
+                    <div class="layer_txt">
+                        <p>
+                            카탈로그를 다운 받을 수 없습니다.<br>취소하시겠습니까?
+                        </p>
+                    </div>
+                </div>
+                <div class="layer__footer alert_footer">
+                    <button type="button" class="layer_btn_multi btn_grey pop-close"><span>Cancel</span></button> 
+                    <button type="button" class="layer_btn_multi"><span>OK</span></button>  
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <!-- //popup -->
+
+
+
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.nice-select.min.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

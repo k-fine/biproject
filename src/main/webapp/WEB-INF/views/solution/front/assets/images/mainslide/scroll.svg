@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="62.5" viewBox="0 0 24 62.5">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff}
+        </style>
+    </defs>
+    <g id="마우스" transform="translate(-1294 -245)">
+        <g id="스크롤" class="cls-1">
+            <path d="M8 0h8a8 8 0 0 1 8 8v16a12 12 0 0 1-12 12A12 12 0 0 1 0 24V8a8 8 0 0 1 8-8z" transform="translate(1294 245)"/>
+            <path fill="none" d="M8.034.5h7.931A7.534 7.534 0 0 1 23.5 8.034V24A11.5 11.5 0 0 1 12 35.5 11.5 11.5 0 0 1 .5 24V8.034A7.534 7.534 0 0 1 8.034.5z" transform="translate(1294 245)"/>
+        </g>
+        <path id="선_183" d="M0 0L0 8" class="cls-1" transform="translate(1306.5 251.5)"/>
+        <g id="arrow" transform="rotate(-90 803.569 -496.069)">
+            <g id="Dribbble-Light-Preview" transform="translate(0 -.002)">
+                <g id="icons">
+                    <path id="arrow_left-_335_" fill="#fff" fill-rule="evenodd" d="M295.767 6519.184a.677.677 0 0 0-.932 0l-5.449 5.259a1.241 1.241 0 0 0 0 1.8l5.489 5.3a.678.678 0 0 0 .925.006.621.621 0 0 0 .006-.907l-5.023-4.848a.621.621 0 0 1 0-.9l4.983-4.809a.62.62 0 0 0 0-.9" transform="translate(-289 -6518.998)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

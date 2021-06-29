@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Northstar</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/dashboard_write.css">
+    <script src="js/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <div id="lnb">
+        <a href="#none"><h1>Northstar</h1></a>
+        <div id="accordian">
+            <ul>
+                <li>
+                    <a href="#none"><h3><span class="icon-from"></span>History</h3></a>
+                </li>
+                <li>
+                    <a href="#none"><h3><span class="icon-customer"></span>Recruit</h3></a>
+                </li>
+                <li class="on">
+                    <a href="#none"><h3><span class="icon-customer"></span>Works</h3></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="view">
+        <div class="gnb">
+            <div class="inner">
+                <div class="box1">
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li class="on">Works</li>
+                    </ul>
+                </div>
+                <div class="box2">
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="inner">
+                <h1>Works</h1>
+                <div class="wrap">
+                    <div class="box">
+                        <h2>Works 상세 / 수정</h2>
+
+                        <table class="write-tbl">
+                            <tr class="title">
+                                <th scope="row">연도<span class="required">*</span></th>
+                                <td>
+                                    <select>
+                                        <option selected>연도 선택</option>
+                                    </select>
+                                </td>
+                                <th scope="row">분야<span class="required">*</span></th>
+                                <td colspan="5">
+                                    <select>
+                                        <option>분야 선택</option>
+                                        <option selected>IT Consulting</option>
+                                        <option>Digital Marketing</option>
+                                        <option>Enterprise Data</option>
+                                        <option>Enterprise Integration</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr class="notice">
+                                <th scope="row">사이트 노출</th>
+                                <td>
+                                    <ul>
+                                        <li>
+                                            <label class="container">
+                                                <input type="radio" checked="checked" name="radio">예
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="container">
+                                                <input type="radio" name="radio">아니요
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <th scope="row">등록자</th>
+                                <td>홍길동</td>
+                                <th scope="row">등록일</th>
+                                <td>2021-03-12</td>
+                                <th scope="row">수정일</th>
+                                <td>2021-03-12</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">기업명<span class="required">*</span></th>
+                                <td colspan="7">
+                                    <input type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">프로젝트명<span class="required">*</span></th>
+                                <td colspan="7">
+                                    <input type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">프로젝트 개요<span class="required">*</span></th>
+                                <td colspan="7">
+                                    <textarea name="" id="" ></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">로고<span class="required">*</span></th>
+                                <td colspan="7">
+                                    <div>
+                                        <input type="text" class="upload_text" readonly="readonly">
+                                        <div class="upload-btn_wrap">
+                                            <button type="button" title="파일찾기">
+                                                <span>찾아보기</span>
+                                            </button>
+                                            <input type="file" class="input_file" title="파일찾기">
+                                        </div>
+                                    </div>
+
+                                    <div class="attachedFile">
+                                        <ul>
+                                            <li class="file-icon"></li>
+                                            <li class="file-name"><a href="#">운영위원회_홈페이지서식.hwp</a></li>
+                                            <li class="file-size">69.2KB</li>
+                                            <li><button type="button" class="file-del">삭제</button></li>
+                                        </ul>
+                                    </div>
+                                </td >
+                            </tr>
+                        </table>
+                        <div class="btn-box" >
+                            <a href="#none"><button type="button" class="list">목록</button></a>
+                            <div class="wrap">
+                                <button type="button" class="cancel">취소</button>
+                                <button type="button"  id="modalBtn" class="save">저장</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+        <!-- --------------The Modal --------------------->
+        <div id="myModal" class="modal">
+            <!-- Modal content -->
+            <div class="modal-content">
+                <div class="title">
+                    <h2> Approve Answer</h2>
+                    <span class="close"></span>
+                </div>
+
+                <div class="content">
+                  <p>Do you want to approve?</p>
+                  <div class="btn-box">
+                    <ul>
+                        <li>  <button type="button" class="cancle">Cancel</button></li>
+                        <li>  <button type="submit" class="save">Save</button></li>
+                    </ul>
+                </div>
+                </div>
+
+            </div>
+          </div>
+    <script src="js/main_custom.js"></script>
+    <script src="js/write_custom.js"></script>
+</body>
+</html>

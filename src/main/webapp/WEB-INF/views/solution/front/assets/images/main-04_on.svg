@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <style>
+            .cls-2,.cls-4{fill:none;stroke-miterlimit:10}.cls-2{stroke-linecap:round;stroke-linejoin:round}.cls-4{stroke:#fff;stroke-width:2px}.cls-5,.cls-6{stroke:none}.cls-6{fill:#fff}
+        </style>
+    </defs>
+    <g id="icon04" transform="translate(-226.925 -60.325)">
+        <g id="그룹_469" transform="translate(-5.487 -5)">
+            <g id="패스_6414" class="cls-2">
+                <path d="M342.049 111.11l-49.067 27.785L244 111.11l48.982-27.785z" class="cls-5"/>
+                <path d="M292.983 85.624l-44.93 25.486 44.93 25.485 45.007-25.485-45.007-25.486m0-2.299l49.066 27.785-49.067 27.784L244 111.11l48.982-27.785z" class="cls-6"/>
+            </g>
+            <g id="패스_6415" class="cls-2">
+                <path d="M342.049 126.11l-49.067 27.785L244 126.11l48.982-27.785z" class="cls-5" transform="translate(0 1.89)"/>
+                <path d="M292.983 100.624l-44.93 25.486 44.93 25.485 45.007-25.485-45.007-25.486m0-2.299l49.066 27.785-49.067 27.784L244 126.11l48.982-27.785z" class="cls-6" transform="translate(0 1.89)"/>
+            </g>
+            <g id="패스_6416" class="cls-2">
+                <path d="M342.049 141.11l-49.067 27.785L244 141.11l48.982-27.785z" class="cls-5" transform="translate(0 3.781)"/>
+                <path d="M292.983 115.624l-44.93 25.486 44.93 25.485 45.007-25.485-45.007-25.486m0-2.299l49.066 27.785-49.067 27.784L244 141.11l48.982-27.785z" class="cls-6" transform="translate(0 3.781)"/>
+            </g>
+            <path id="패스_6413" fill="#abffff" d="M325.7 140.177l-34.347 19.449-34.287-19.449 34.287-19.449z" transform="translate(1.646 4.714)"/>
+        </g>
+        <path id="패스_6417" d="M342.075 90.325v-24h-24" class="cls-4"/>
+        <path id="패스_6418" d="M231.925 90.325v-24h24" class="cls-4"/>
+        <path id="패스_6419" d="M342.075 150.675v24h-24" class="cls-4"/>
+        <path id="패스_6420" d="M231.925 150.675v24h24" class="cls-4"/>
+    </g>
+</svg>

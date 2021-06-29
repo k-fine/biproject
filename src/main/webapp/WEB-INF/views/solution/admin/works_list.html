@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Northstar</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <div id="lnb">
+        <a href="#none"><h1>Northstar</h1></a>
+        <div id="accordian">
+            <ul>
+                <li>
+                    <a href="#none"><h3><span class="icon-from"></span>History</h3></a>
+                </li>
+                <li>
+                    <a href="#none"><h3><span class="icon-customer"></span>Recruit</h3></a>
+                </li>
+                <li class="on">
+                    <a href="#none"><h3><span class="icon-customer"></span>Works</h3></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="view">
+        <div class="gnb">
+            <div class="inner">
+                <div class="box1">
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li class="on">Works</li>
+                    </ul>
+                </div>
+                <div class="box2">
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="inner">
+                <h1>Works</h1>
+                <div class="wrap">
+                    <div class="box">
+                        <div class="search_box">
+                            <select>
+                                <option selected>연도 선택</option>
+                            </select>
+                            <div class="search">
+                                <input type="search" id="searchTerm" placeholder="Search" >
+                                <button type="submit" class="searchButton"></button>
+                             </div>
+                             <div class="btn">
+                                <ul>
+                                    <li>  <button type="button" class="remove">삭제</button></li>
+                                    <li>  <a  href="recruit_write.html"><button type="button" class="writeButton">Write</button></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="tbl_box">
+                            <table class="tlb">
+                                <colgroup>
+                                    <col width="50px" />
+                                    <col width="50px" />
+                                    <col width="70px" />
+                                    <col width="130px" />
+                                    <col width="150px" />
+                                    <col width="*" />
+                                    <col width="80px" />
+                                    <col width="120px" />
+                                    <col width="100px" />
+                                </colgroup>
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            <input type="checkbox" id="cb0" class="check-all">
+                                            <label for="cb0"></label>
+                                        </th>
+                                        <th>No.</th>
+                                        <th>연도</th>
+                                        <th>분야</th>
+                                        <th>기업명</th>
+                                        <th>프로젝트명</th>
+                                        <th>노출</th>
+                                        <th>등록자</th>
+                                        <th>등록일</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <input type="checkbox" id="cb1" class="cb">
+                                            <label for="cb1"></label>
+                                        </td>
+                                        <td class="txt_center">10</th>
+                                        <td class="txt_center">2020</th>
+                                        <td class="txt_center">IT Consulting</th>
+                                        <td class="txt_center">KT</th>
+                                        <td><a href="#none">감염병정보 자동수집시스템 개발2차</a> </th>
+                                        <td class="txt_center">노출</th>
+                                        <td class="txt_center">홍길동</th>
+                                        <td class="txt_center">2021.03.08</th>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <input type="checkbox" id="cb1" class="cb">
+                                            <label for="cb1"></label>
+                                        </td>
+                                        <td class="txt_center">9</th>
+                                        <td class="txt_center">2020</th>
+                                        <td class="txt_center">Digital Marketing</th>
+                                        <td class="txt_center">기아자동차</th>
+                                        <td><a href="#none">감염병정보 자동수집시스템 개발2차</a> </th>
+                                        <td class="txt_center"><span class="required">비노출</span></th>
+                                        <td class="txt_center">홍길동</th>
+                                        <td class="txt_center">2021.03.08</th>
+                                    </tr>
+
+
+                                    <!-- 등록된 데이터나/검색된 데이터가 없을경우 -->
+                                    <tr>
+                                        <td colspan="9" class="txt_center no_data">
+                                            등록된 Works가 없습니다.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="paging_box">
+                            <ul>
+                                <li class="first"></li>
+                                <li class="pre"></li>
+                                <li class="pageNum on">1</li>
+                                <li class="pageNum">2</li>
+                                <li class="pageNum">3</li>
+                                <li class="pageNum">4</li>
+                                <li class="pageNum">5</li>
+                                <li class="next"></li>
+                                <li  id="modalBtn" class="last"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+   <script src="js/main_custom.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="46">
+    <text x="49" y="29.902" fill="#FFF" font-family="Poppins" font-size="26" font-weight="bold">
+        logo.
+    </text>
+    <path fill="#374AFB" fill-rule="evenodd" d="M18 6.719h10c5.522 0 10 4.477 10 10v10c0 5.522-4.478 10-10 10H18c-5.523 0-10.001-4.478-10.001-10v-10c0-5.523 4.478-10 10.001-10z"/>
+    <path fill="#5A75FF" fill-rule="evenodd" d="M33 24h2c5.523 0 10 4.477 10 10v2c0 5.523-4.477 10-10 10h-2c-5.523 0-10.001-4.477-10.001-10v-2c0-5.523 4.478-10 10.001-10z"/>
+    <path fill="#0070FA" fill-rule="evenodd" d="M10 0h4.999c5.523 0 10 4.477 10 10v2c0 5.523-4.477 10-10 10H10C4.477 22-.001 17.523-.001 12v-2C-.001 4.477 4.477 0 10 0z"/>
+    <text x="17" y="31.062" fill="#FFF" font-family="Source Sans Pro" font-size="22" font-weight="bold">
+        l
+    </text>
+    <text x="25" y="31.062" fill="#FFF" font-family="Source Sans Pro" font-size="22" font-weight="bold">
+        l
+    </text>
+    <path fill="#62B0FF" fill-rule="evenodd" d="M25.5 31h5a.5.5 0 0 1 0 1h-5a.5.5 0 1 1 0-1z"/>
+    <path fill="#FFF" fill-rule="evenodd" d="M20.5 28h7a1.5 1.5 0 0 1 0 3h-7a1.5 1.5 0 1 1 0-3z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <clipPath id="cjrv6mxaha">
+            <path fill="none" d="M0 0H28V28H0z" transform="translate(0 1)"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#cjrv6mxaha)" transform="translate(0 -1)">
+        <g>
+            <path d="M0 0H1.896V8.531H0z" transform="translate(12.687 11) translate(.474)"/>
+            <path d="M915.922 498a1.422 1.422 0 1 0 1.422 1.422 1.422 1.422 0 0 0-1.422-1.422z" transform="translate(12.687 11) translate(-914.5 -487.573)"/>
+        </g>
+        <path fill="none" stroke="#000" stroke-width="1.6px" d="M891.9 500.7l-12.072-22.222a.947.947 0 0 0-1.647 0L866.105 500.7a.856.856 0 0 0 .03.871.938.938 0 0 0 .794.428h24.143a.938.938 0 0 0 .794-.428.857.857 0 0 0 .034-.871z" transform="translate(-865 -475)"/>
+    </g>
+</svg>

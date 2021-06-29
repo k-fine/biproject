@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Block" fill="red" d="M0 0H66V66H0z" opacity="0.1"/>
+        </clipPath>
+        <style>
+            .cls-4,.cls-6{fill:none}.cls-4{stroke:#000;stroke-width:2px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="icon_pro03" transform="translate(-42 -42)">
+        <g id="마스크_그룹_8" clip-path="url(#clip-path)" transform="translate(42 42)">
+            <g id="icon" transform="translate(1.118 -13.51)">
+                <circle id="타원_58" cx="8.516" cy="8.516" r="8.516" fill="#0058cd" transform="translate(23.365 37.994)"/>
+                <g id="blue-1" transform="rotate(45 16.272 39.284)">
+                    <g id="그룹_3" transform="rotate(14.98 18.235 138.911)">
+                        <path id="선_319" d="M0 11.385L0 0" class="cls-4" transform="translate(4.879 8.945)"/>
+                        <g id="타원_63" class="cls-4">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                    <g id="그룹_1" transform="rotate(165.02 8.396 21.84)">
+                        <path id="선_320" d="M0 0L11.385 0" class="cls-4" transform="translate(0 4.879)"/>
+                        <g id="타원_64" class="cls-4" transform="translate(10.572)">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                    <g id="그룹_2" transform="rotate(-45 19.833 1.755)">
+                        <path id="선_321" d="M0 11.385L0 0" class="cls-4" transform="translate(6.929 9.598)"/>
+                        <g id="타원_169" class="cls-4" transform="translate(2.05 .09)">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="blue-2" transform="rotate(-45 72.66 30.096)">
+                    <g id="그룹_3-2" transform="rotate(-14.98 115.765 -105.795)">
+                        <path id="선_322" d="M0 0L0 11.385" class="cls-4" transform="translate(4.879)"/>
+                        <g id="타원_66" class="cls-4" transform="translate(0 10.572)">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                    <g id="그룹_1-2" transform="rotate(-165.02 10.786 6.05)">
+                        <path id="선_323" d="M0 0L11.385 0" class="cls-4" transform="translate(0 4.879)"/>
+                        <g id="타원_67" class="cls-4" transform="translate(10.572)">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                    <g id="그룹_2-2" transform="rotate(45 -11.419 34.223)">
+                        <path id="선_324" d="M0 0L0 11.385" class="cls-4" transform="translate(4.879)"/>
+                        <g id="타원_68" class="cls-4" transform="translate(0 10.572)">
+                            <circle cx="4.879" cy="4.879" r="4.879" class="cls-5"/>
+                            <circle cx="4.879" cy="4.879" r="3.879" class="cls-6"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

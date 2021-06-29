@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <g>
+        <g>
+            <g fill="none" stroke="#222" stroke-width="2px">
+                <g transform="translate(-308 -20) translate(301 13) translate(8 8)">
+                    <circle cx="7" cy="7" r="7" stroke="none"/>
+                    <circle cx="7" cy="7" r="6"/>
+                </g>
+                <path stroke-linecap="square" d="M0 0l3 3" transform="translate(-308 -20) translate(301 13) translate(19.998 19.997)"/>
+            </g>
+        </g>
+    </g>
+</svg>

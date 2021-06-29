@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>notice</title>
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+    <button data-pop="notice-pop" style="margin: 250px;">notice 버튼</button>
+
+
+
+
+    <!-- popup -->
+    <div class="popup notice-pop show" id="layer1">  <!-- .show 여부에 따라 팝업이 보여짐 -->
+        <div class="pop-wrap pop-notice">
+            <span class="btn-close pop-close"></span>
+            <div class="layer__section">
+                <div class="layer__header">
+                    <span>Notice</span>
+                </div>
+                <div class="layer_contet">
+                    <div class="layer_txt">
+                        <p>
+                            System check time notice<br>
+                            2021.04.23 (Thu) 00:00 ~ 04:00 (Based on Korean time)
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="pop_check">
+                <label class="checkbox-wrap">
+                    <input type="checkbox" class="chk" name="chk" value=""><i class="check-icon"></i>
+                    <em>Don't watch again today</em>
+                </label>
+                <div class="pop_check_close pop-close"><a href="#none">Close</a></div>
+            </div>
+        </div>
+       
+    </div>
+    <!-- //popup -->
+
+
+
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.nice-select.min.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Box" d="M0 0H120V120H0z" transform="translate(859 1467)"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#abffff}.cls-4,.cls-5{fill:none;stroke:#fff;stroke-width:2px;stroke-miterlimit:10}.cls-5{fill:#0f0}
+        </style>
+    </defs>
+    <g id="icon02_hover" transform="translate(-859 -1467)">
+        <g id="마스크_그룹_6" clip-path="url(#clip-path)">
+            <g id="그룹_487">
+                <g id="box1" transform="translate(424.287 1241.488)">
+                    <path id="inbox1" d="M460.457 327.418v-16.946l12.151-6.893 12.172 6.893v16.947l-12.172 6.893z" class="cls-3" transform="translate(-.602 -.574)"/>
+                    <path id="패스_6427" d="M451.75 331.873v-25.141L472 295.244l20.287 11.488v25.141L472 343.361z" class="cls-4" transform="translate(-.003)"/>
+                    <g id="그룹_472" transform="translate(451.712 306.732)">
+                        <path id="패스_6428" d="M492.287 307.581L472 319.069l-20.287-11.488" class="cls-4" transform="translate(-451.712 -307.581)"/>
+                        <path id="선_274" d="M0 0L0 25.141" class="cls-5" transform="translate(20.287 11.639)"/>
+                    </g>
+                </g>
+                <g id="box2" transform="translate(325.874 917.798)">
+                    <path id="inbox2" d="M460.458 298.455v-51.017l12.093-6.86 12.114 6.86v51.017l-12.114 6.86z" class="cls-3" transform="translate(142.603 333.748)"/>
+                    <path id="패스_6440" d="M595.18 635.032V577.8l20.22-10.56 20.25 10.563v57.229l-20.25 11.854z" class="cls-4" transform="translate(-.019)"/>
+                    <g id="그룹_485" transform="translate(595.126 577.803)">
+                        <path id="패스_6441" d="M635.626 578.606l-20.25 11.854-20.25-11.854" class="cls-4" transform="translate(-595.126 -578.606)"/>
+                        <path id="선_286" d="M0 0L0 56.793" class="cls-5" transform="translate(20.25 12.005)"/>
+                    </g>
+                </g>
+                <g id="arrow" stroke="#fff" stroke-width="2px" transform="rotate(-120 893.994 465.447)">
+                    <path id="패스_10" fill="rgba(0,0,0,0)" stroke-miterlimit="10" d="M21.5 12.5l-6 6-6-6" transform="translate(-15.562 -16)"/>
+                    <path id="패스_6442" fill="none" stroke-linecap="round" d="M877 1539.5l34.75-18.748V1489l31-16.5" transform="rotate(120 895.783 465.081)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

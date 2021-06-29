@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="block60" fill="red" d="M0 0H60V60H0z" opacity="0.1" transform="translate(80 57)"/>
+        </clipPath>
+        <style>
+            .cls-3,.cls-6{fill:none;stroke:#111;stroke-width:2px}.cls-3{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="illust01" clip-path="url(#clip-path)" transform="translate(-80 -57)">
+        <g id="illust_1" transform="translate(-7 4.6)">
+            <g id="illust01-2" transform="translate(94 69)">
+                <g id="그룹_2008" transform="translate(9.315 15.55)">
+                    <circle id="타원_166" cx="6.542" cy="6.542" r="6.542" class="cls-3"/>
+                    <path id="선_413" d="M4.871 4.601L0 0" class="cls-3" transform="translate(11.215 11.215)"/>
+                </g>
+                <g id="패스_6742" fill="none" stroke="none" stroke-miterlimit="10">
+                    <path d="M95.741 73.5L85.5 83.741v29.143h32V73.5z" transform="translate(-85.5 -73.5)"/>
+                    <path fill="#111" d="M95.741 73.5L85.5 83.741v29.144h32V73.5H95.741m-.828-2H119.5v43.385h-36V82.913l.586-.586 10.241-10.241.586-.586z" transform="translate(-85.5 -73.5)"/>
+                </g>
+                <path id="패스_6743_a" fill="none" stroke="#111" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2px" d="M85.5 82.947h9.447V73.5" transform="translate(-85.346 -73.346)"/>
+            </g>
+            <path id="패스_6744" d="M106.333 65h23.333v41.333" class="cls-6" transform="translate(4 -3)"/>
+            <path id="패스_6745" d="M106.333 65h23.333v41.333" class="cls-6" transform="translate(11 -9)"/>
+        </g>
+    </g>
+</svg>
